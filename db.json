@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 8
     },
     {
       "id": 2,
@@ -28,7 +28,7 @@
       "id": 5,
       "name": "Rex",
       "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "likes": 4
     },
     {
       "id": 6,
@@ -47,6 +47,60 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Sean",
+      "image": "asdfa",
+      "likes": 3,
+      "id": 9
+    },
+    {
+      "name": "Sean",
+      "image": "asdfa",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Sean",
+      "image": "asdfa",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "Sean",
+      "image": "asdfa",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "Sean",
+      "image": "asdfa",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "name": "Sean",
+      "image": "asdfa",
+      "likes": 0,
+      "id": 14
+    },
+    {
+      "name": "Sean",
+      "image": "asdfa",
+      "likes": 0,
+      "id": 15
+    },
+    {
+      "name": "Sean",
+      "image": "asdfa",
+      "likes": 0,
+      "id": 16
+    },
+    {
+      "name": "Sean",
+      "image": "asdfa",
+      "likes": 0,
+      "id": 17
     }
   ]
 }
